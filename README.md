@@ -29,7 +29,6 @@ npm install<br /><br />
 3️⃣ Run the App Locally<br />
 npm run dev<br /><br />
 
-Now open your browser and visit: http://localhost:5173<br />
 
 👤 Author<br />
 👨‍💻 Harshal Belgamwar<br />
