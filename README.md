@@ -1,16 +1,39 @@
-<<<<<<< HEAD
-# Task-Manager
-=======
-# React + Vite
+# Task manager 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔍 Overview
+A sleek and responsive To-Do List application built using React, enhanced with Redux Toolkit for state management, Redux Persist for data persistence, styled using Tailwind CSS, and visualized using Chart.js for a productive overview.
 
-Currently, two official plugins are available:
+This project allows users to:
+📝 Add, update, and delete tasks
+📊 Track completed vs pending tasks with a Pie Chart
+💾 Automatically save data using Redux Persist
+💡 Enjoy a clean and responsive UI built with Tailwind CSS
+📱 Mobile-friendly responsive layout with Tailwind CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠️ Tech Stack
+⚛️ React
+🧠 Redux Toolkit
+💾 Redux Persist
+🎨 Tailwind CSS
+📈 Chart.js
+⚡ Vite
 
-## Expanding the ESLint configuration
+🚀 Getting Started
+1️⃣ Clone the Repository
+git clone https://github.com/Harshal-belgamwar/Task-Manager.git
+cd Task-Manager
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> 347bcb3 (final commit)
+2️⃣ Install Dependencies
+npm install
+
+3️⃣ Run the App Locally
+npm run dev
+
+Now open your browser and visit: http://localhost:5173
+
+👤 Author
+👨‍💻 Harshal Belgamwar
+🎓 Computer Engineering Student
+📍 Pune, India
+📧 harshalbelgamwar@gmail.com
+🔗 www.linkedin.com/in/harshal-belgamwar
