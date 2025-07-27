@@ -29,6 +29,7 @@ npm install<br /><br />
 3️⃣ Run the App Locally<br />
 npm run dev<br /><br />
 
+Check Live: https://task-manager-eta-dusky-43.vercel.app/ 
 
 👤 Author<br />
 👨‍💻 Harshal Belgamwar<br />
